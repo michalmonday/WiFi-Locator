@@ -6,7 +6,8 @@ Locating Wi-Fi Access Points with Signal Strength (RSSI) using Esp8266 and NEO-M
 - 4x Wemos D1 Mini boards (£10) - [Link](https://www.ebay.co.uk/itm/D1-Mini-NodeMCU-Lua-ESP8266-ESP-12-WeMos-D1-Mini-WIFI-4M-Bytes-Module/272253589592)  
 - 4x AAA batteries holders (£2) - [Link](https://www.ebay.co.uk/itm/1-8-AAA-Battery-Holder-Box-with-Switch-PP3-Clip-Wire-Solder-Tags-JR-Lead/121729965773)  
 - 4x Mini SMD switches (£1) - [Link](https://www.aliexpress.com/item/10PCS-YT2024Y-MSS22D18-MINI-Miniature-SMD-Slide-Switch-2P2T-6Pin-for-DIY-Electronic-Accessories-High-Quality/32826876349.html)  
-- NEO-M8N GPS module (£7) - [Link](https://www.aliexpress.com/item/Free-Shipping-GPSV3-M8N-ublox-NEO-M8N-001-eighth-Beidou-GPS-module-APM-MWC-flight-control/32822894266.html)  
+- NEO-M8N GPS module (£7, optional) - [Link](https://www.aliexpress.com/item/Free-Shipping-GPSV3-M8N-ublox-NEO-M8N-001-eighth-Beidou-GPS-module-APM-MWC-flight-control/32822894266.html)  
+> GPS module is not required for it to work, it is not implemented yet anyway  
 - NodeMcu (£2) - [Link](https://www.aliexpress.com/item/1PCS-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32802874451.html)  
 - SH1106 I2C display (£5) - [Link](https://www.ebay.co.uk/itm/1-3-4-Pin-SH1106-I2C-IIC-128X64-OLED-LED-Display-Module-Board-For-Arduino-RB/183492452441)  
 - Buttons (£3 or less) - [Link](https://www.ebay.co.uk/itm/140Pcs-momentary-tactile-push-button-micro-SMD-SMT-tact-switches-14-types/183062874271) 
