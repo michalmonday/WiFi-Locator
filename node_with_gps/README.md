@@ -7,3 +7,5 @@ I wish it could display markers on a google map in "real time" as you collect th
 One solution I thought about is to use additional module like Sim800L which would just upload the GPS data straight to internet (e.g. server hosted by me, which would provide that GPS data when requested by a smartphone for example).
 
 ![](https://github.com/michalmonday/WiFi-Locator/blob/master/pics/locator_node_with_gps_schematic.png)
+
+![](https://github.com/michalmonday/WiFi-Locator/blob/master/pics/node_with_gps.jpg)
