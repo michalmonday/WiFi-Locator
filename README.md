@@ -13,7 +13,7 @@ Locating Wi-Fi Access Points with Signal Strength (RSSI) using Esp8266 and NEO-M
 - Wires (thin solid core + micro usb cables/connectors)  
 - Hot glue  
 - Soldering equipment  
-> Instead of the 5th Wemos I used NodeMCU microcontroller  
+> Instead of the 5th Wemos I used NodeMCU  
 
 
 **Libraries used:**  
