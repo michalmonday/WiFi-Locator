@@ -22,7 +22,9 @@ Locating Wi-Fi Access Points with Signal Strength (RSSI) using Esp8266 and NEO-M
 [LinkedList](https://github.com/ivanseidel/LinkedList)  
 [TinyGPSplus for Neo-M8N](https://github.com/SensorsIot/TinyGPSplus-for-Neo-M8N)  
 
-See separate folders for wiring images.
+See separate folders for wiring images.  
+
+
 ![](https://github.com/michalmonday/WiFi-Locator/blob/master/pics/all_parts.jpg)
 
 ![](https://github.com/michalmonday/WiFi-Locator/blob/master/pics/placement_measure.jpg)
